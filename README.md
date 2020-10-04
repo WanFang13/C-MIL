@@ -1,5 +1,7 @@
 # C-MIL
-code for C-MIL: Continuation Multiple Instance Learning for Weakly  Supervised Object Detection
+Code for C-MIL: Continuation Multiple Instance Learning for Weakly  Supervised Object Detection.
+
+New: Pytorch version of C-MIL is avalable at [here](https://github.com/shenyunhang/DRN-WSOD). Thanks for the contribution of [shenyunhang](https://github.com/shenyunhang).
 
 ## Environments
 
